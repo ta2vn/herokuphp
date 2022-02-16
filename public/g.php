@@ -1,6 +1,7 @@
+<?php phpinfo(); ?>
 <?php
 $filename = '7ipv6.txt';
-phpinfo();
+
 
 function get_client_ip() {
     $ipaddress = '';
