@@ -1,4 +1,3 @@
-<?php phpinfo(); ?>
 <?php
 $filename = '7ipv6.txt';
 
